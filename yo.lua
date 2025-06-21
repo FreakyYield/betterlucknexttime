@@ -2,9 +2,9 @@ local coreGui = game:GetService("CoreGui")
 
 local camera = workspace.CurrentCamera
 local drawingUI = Instance.new("ScreenGui")
-drawingUI.Name = "Drawing | Xeno"
+drawingUI.Name = "snqdnsqjdqndjzwwsdwasd"
 drawingUI.IgnoreGuiInset = true
-drawingUI.DisplayOrder = 0x7fffffff
+drawingUI.DisplayOrder = 99999999999999999999999
 drawingUI.Parent = coreGui
 
 local drawingIndex = 0
